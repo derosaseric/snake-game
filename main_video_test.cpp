@@ -3,7 +3,7 @@
  *
  * @brief Basic test of 4 basic i/o cores
  *
- * @author p chu
+ * @author Eric and Andre
  * @version v1.0: initial release
  *********************************************************************/
 
